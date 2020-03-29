@@ -1,4 +1,4 @@
-![superNova](https://imgur.com/pxrkv9N.gif);
+![superNova](https://imgur.com/pxrkv9N.gif)
 
 # World COVD-19 Information
 
@@ -23,14 +23,11 @@ I'd like to integreate the CDC API (https://open.cdc.gov/apis.html) to incorpora
 
 **WIREFRAMES**
 
-Web
-![web1](https://imgur.com/f75CQ0F.png)
-![web2](https://imgur.com/ubZX4k5.png)
+![web1](https://imgur.com/f75CQ0F.png "Web 1")
+![web2](https://imgur.com/ubZX4k5.png "Web 1")
 
-iPad
-![iPad1](https://imgur.com/C4mmOEz.png)
-![iPad2](https://imgur.com/DdrF9he.png)
+![iPad1](https://imgur.com/C4mmOEz.png "iPad 1")
+![iPad2](https://imgur.com/DdrF9he.png "iPad 2")
 
-iPhone
-![iPhone1](https://imgur.com/MKkTMA8.png)
-![iPhone2](https://imgur.com/TpadLmQ.png)
+![iPhone1](https://imgur.com/MKkTMA8.png "iPhone 1")
+![iPhone2](https://imgur.com/TpadLmQ.png "iPhone 2")
