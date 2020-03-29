@@ -1,1 +1,1 @@
-![superNova](https://imgur.com/pxrkv9N);
+![superNova](https://imgur.com/pxrkv9N.gif);
