@@ -4,9 +4,9 @@
 
 #### MVP GOALS
 
-I am creating an app that provides the total number of COVID-19 cases per Country. There will be homepage listing all of the countries. A user will be able to click on the country of inquiry and information about the COVID-19 cases will display on a separate page. The goal of this app is to keep users well informed, during this pandemic.
+I will be using the COVID-19 API (https://covid19api.com/) to create an app that provides information on COVID-19 cases by Country. The initial page(homepage) will have a complete alphabetical listing of world countries. A user will be able to click on the country of interest and information about the COVID-19 cases will display on a separate page. The goal of this app is to keep users informed, during this pandemic.
 
-I will be using the COVID-19 API (https://covid19api.com/).
+For the final MVP goal, I will utilize StoryBook to create 5 reusable components.
 
 **COMPONENT HEIRARCHY**
 
@@ -23,4 +23,4 @@ I'd like to integreate the CDC API (https://open.cdc.gov/apis.html) to incorpora
 
 **WIREFRAMES**
 
-![iPhone]();
+![web1](https://xd.adobe.com/view/c3fc54ec-cdba-4c71-4b1c-5a4dc49cd0d4-b5cd.png);
