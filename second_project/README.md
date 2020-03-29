@@ -23,9 +23,14 @@ I'd like to integreate the CDC API (https://open.cdc.gov/apis.html) to incorpora
 
 **WIREFRAMES**
 
-![web1](https://imgur.com/f75CQ0F.png);
-![web2](https://imgur.com/ubZX4k5.png);
-![iPad1](https://imgur.com/C4mmOEz.png);
-![iPad2](https://imgur.com/DdrF9he.png);
-![iPhone1](https://imgur.com/MKkTMA8.png);
-![iPhone2](https://imgur.com/TpadLmQ.png);
+Web
+![web1](https://imgur.com/f75CQ0F.png)
+![web2](https://imgur.com/ubZX4k5.png)
+
+iPad
+![iPad1](https://imgur.com/C4mmOEz.png)
+![iPad2](https://imgur.com/DdrF9he.png)
+
+iPhone
+![iPhone1](https://imgur.com/MKkTMA8.png)
+![iPhone2](https://imgur.com/TpadLmQ.png)
