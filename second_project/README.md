@@ -23,4 +23,4 @@ I'd like to integreate the CDC API (https://open.cdc.gov/apis.html) to incorpora
 
 **WIREFRAMES**
 
-![web1](https://xd.adobe.com/view/c3fc54ec-cdba-4c71-4b1c-5a4dc49cd0d4-b5cd.png);
+![web1](https://xd.adobe.com/view/c3fc54ec-cdba-4c71-4b1c-5a4dc49cd0d4-b5cd/.png);
