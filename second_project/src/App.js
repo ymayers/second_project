@@ -10,19 +10,13 @@ class App extends React.Component {
   }
 
   componentDidMount = async () => {
-    const response = await axios.get(
-      `https://api.covid19api.com/summary`
-    );
+    const response = await axios.get(`https://api.covid19api.com/summary`);
 
     this.setState({ response: response.Countries });
   };
 
   render() {
-    return (
-      <div>
-       
-      </div>
-    );
+    return <div></div>;
   }
 }
 
