@@ -2,22 +2,48 @@ import React from "react";
 import "./App.css";
 import axios from "axios";
 import { Link, Route } from "react-router-dom";
+import Header from "./Header";
+import Home from "./Home";
 
 class App extends React.Component {
   constructor() {
     super();
-    this.state = { response: [] };
+    this.state = {
+      response: ""
+    };
   }
-
   componentDidMount = async () => {
     const response = await axios.get(`https://api.covid19api.com/summary`);
 
-    this.setState({ response: response.Countries });
+    this.setState({ response: response.data.Countries});
   };
 
   render() {
-    return <div></div>;
+    // used object.keys because I kept getting an error that .map is not a function
+    //first map through the response Countries - returns only indices - not names
+    let countryDisp = Object.keys(this.state.response).map((value, idx) => {
+      //the second map is intended to actually get the country names but not getting any output - no errors either though
+      Object.keys(value).map((country) => {
+        // if (idx > 0){ - need to remove 0 index b/c it is empty
+        return (
+          //add } back here
+          <div className="country" key={idx}>{country}</div>
+        )
+      });
+    });
+
+    return (
+      <div>
+        <main>
+          <Header />
+          
+          <div className="countries">
+          <Home className="country" country={countryDisp}/>
+            <div>{countryDisp}</div>
+            </div>
+        </main>
+      </div>
+    );
   }
 }
-
 export default App;
